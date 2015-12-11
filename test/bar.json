@@ -1,5 +1,5 @@
 {
-  "templateUrl": "base.mustache",
+  "templateUrl": "1.0/default.mustache",
   "scripts": [
     "1",
     "a",
