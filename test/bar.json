@@ -1,5 +1,8 @@
 {
   "templateUrl": "1.0/default.mustache",
+  "css": [
+    "q"
+  ],
   "scripts": [
     "1",
     "a",
