@@ -1,4 +1,8 @@
 {
   "templateUrl": "base.mustache",
-  "derp": "ass"
+  "scripts": [
+    "1",
+    "a",
+    "ccc"
+  ]
 }
