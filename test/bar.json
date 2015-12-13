@@ -1,6 +1,5 @@
 {
-  "templateFile2": "1.0/default.html",
-  "template": "<h1>a</h1>",
+  "templateFile": "1.0/default.html",
   "derp": "al2",
   "css": [
     "123"
