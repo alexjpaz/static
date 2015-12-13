@@ -1,5 +1,5 @@
 {
-  "templateUrl": "http://www.google.com",
+  "templateFile": "1.0/default.html",
   "css": [
     "q"
   ],
