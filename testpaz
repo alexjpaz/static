@@ -1,0 +1,8 @@
+{
+templateFile: "1.0/index.html",
+derp: "al2",
+css: [
+"123"
+],
+scripts: [ ]
+}
