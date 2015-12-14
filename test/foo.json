@@ -1,4 +1,4 @@
 {
-  "template": "<h1>foo {{ derp }}</h1>",
+  "templateUrl": "https://raw.githubusercontent.com/alexjpaz/static/gh-pages/test/test.html",
   "derp": "ass"
 }
