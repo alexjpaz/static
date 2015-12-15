@@ -1,5 +1,5 @@
 {
-  "template": "derp {{> body.top }}",
+  "template": "derp {{> /templates/1.0/default.html }}",
   "templateFile2": "/templates/1.0/default.html",
   "derp": "al24",
   "body": {
