@@ -1,5 +1,5 @@
 {
-  "templateFile": "1.0/default.html",
+  "templateFile": "/templates/1.0/default.html",
   "derp": "al24",
   "css": [
     "4123"
