@@ -1,7 +1,5 @@
 {
-  "template": "derp {{> /templates/1.0/default.html }}",
-  "templateFile2": "/templates/1.0/default.html",
-  "derp": "al24",
+  "template": "derp {{> /templates/common/default.html }}",
   "body": {
     "top": "<h1>{{> css }}</h1><h1>hi bud</h1>"
   },
